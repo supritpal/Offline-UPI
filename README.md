@@ -6,7 +6,6 @@
 [![Tests](https://img.shields.io/badge/Tests-30%20Passed-blue.svg?logo=junit5&logoColor=white)](https://github.com/supritpal/Offline-UPI)
 [![Security](https://img.shields.io/badge/Encryption-AES--256--GCM%20%7C%20RSA--2048-red.svg?logo=lock&logoColor=white)](https://github.com/supritpal/Offline-UPI)
 [![Database](https://img.shields.io/badge/Database-H2%20In--Memory-blueviolet.svg?logo=h2&logoColor=white)](https://www.h2database.com/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 An enterprise-grade, resilient **Offline Payment Simulation Framework** designed to facilitate digital transactions in zero-connectivity environments, rural regions, and disaster recovery zones.
 
@@ -385,9 +384,3 @@ The project includes an extensive test suite covering cryptographic correctness,
 **Suprit Pal**
 - GitHub: [@supritpal](https://github.com/supritpal)
 - Project: [Offline-UPI](https://github.com/supritpal/Offline-UPI)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
